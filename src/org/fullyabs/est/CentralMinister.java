@@ -1,7 +1,7 @@
 package org.fullyabs.est;
 // child 1
 public class CentralMinister implements PrimeMinister{
-
+// checking to find conflict for git
 	@Override
 	public void party() {
 		System.out.println("party name is ASD");
